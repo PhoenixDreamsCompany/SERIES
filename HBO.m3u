@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1  group-title="HBO",PREM SD: HBO
+http://odenfull.co:2086/142536/142536/108658
+#EXTINF:-1  group-title="HBO",PREM HD: HBO
+http://odenfull.co:2086/142536/142536/108659
+#EXTINF:-1  group-title="HBO",PREM SD: HBO EAST
+http://odenfull.co:2086/142536/142536/108661
+#EXTINF:-1  group-title="HBO",PREM HD: HBO EAST
+http://odenfull.co:2086/142536/142536/108663
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO WEST
+http://odenfull.co:2086/142536/142536/108685
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO WEST
+http://odenfull.co:2086/142536/142536/108687
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO FAMILY
+http://odenfull.co:2086/142536/142536/108692
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO FAMILY
+http://odenfull.co:2086/142536/142536/108694
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO 2
+http://odenfull.co:2086/142536/142536/108696
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO 2
+http://odenfull.co:2086/142536/142536/108697
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO 2 WEST
+http://odenfull.co:2086/142536/142536/108698
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO 2 WEST
+http://odenfull.co:2086/142536/142536/108700
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO 2 EAST
+http://odenfull.co:2086/142536/142536/108702
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO 2 EAST
+http://odenfull.co:2086/142536/142536/108704
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO +
+http://odenfull.co:2086/142536/142536/108707
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO +
+http://odenfull.co:2086/142536/142536/108708
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO SIGNATURE
+http://odenfull.co:2086/142536/142536/108709
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO SIGNATURE
+http://odenfull.co:2086/142536/142536/108710
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO POP
+http://odenfull.co:2086/142536/142536/108711
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO POP
+http://odenfull.co:2086/142536/142536/108712
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO XTREME
+http://odenfull.co:2086/142536/142536/108713
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO XTREME
+http://odenfull.co:2086/142536/142536/108715
+#EXTINF:-1  group-title="Lista 11",PREM SD: HBO MUNDI
+http://odenfull.co:2086/142536/142536/108719
+#EXTINF:-1  group-title="Lista 11",PREM HD: HBO MUNDI
+http://odenfull.co:2086/142536/142536/108721

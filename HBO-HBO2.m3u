@@ -1,6 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1  group-title="Lista TV", HBO
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=hboes&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", HBO 2
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=hbo2&f=.m3u8
